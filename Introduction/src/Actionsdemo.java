@@ -39,6 +39,10 @@ public class Actionsdemo {
 		//a.moveToElement(move).contextClick().build().perform();// when we write a step Build, it means the step is ready to Build or execute and if we want to execute write perform.
 		//context click is used for right click.
 		
+		System.out.println("post jira1");
+		System.out.println("post jira2");
+		
+		
 
 	}
 
