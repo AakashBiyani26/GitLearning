@@ -6,6 +6,8 @@ public class AppiumTest {
 		
 		int a = 3;
 		System.out.println("notice period is "+a);
+		
+		System.out.println("acc");
 
 	}
 
